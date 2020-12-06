@@ -2,3 +2,5 @@
 .weight & .cfg Files: https://drive.google.com/drive/folders/1wbRsd9jDRpWITgvVk4PmEWdxCEBqgURq?usp=sharing
 
 Note: This is first part of my project, second part is done by my patner which link is this: 
+
+Demo video: https://drive.google.com/file/d/1sZPT6sFmfY3tDU-CxLWbfcEMPJUAcKBq/view?usp=sharing
