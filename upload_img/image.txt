@@ -1,0 +1,1 @@
+After selecting image it will store here first before pass to model as input
